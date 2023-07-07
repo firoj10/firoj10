@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
 <h3 align="center">A passionate frontend developer from Thakurgaon Bangladesh</h3>
-<img  align="right" width=400 src="https://i.ibb.co/4Vx08CF/IMG-20230702-161750-removebg-preview-modified.png" alt="">
+<img  align="right" width=400 src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?size=626&ext=jpg&uid=R105874481&ga=GA1.2.1306731744.1686152424&semt=ais" alt="">
 
 
 - 🔭 I’m currently working on [Summer drawing school](https://summery-camp-drowing-school.web.app/)
