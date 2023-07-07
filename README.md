@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
 <h3 align="center">A passionate frontend developer from Thakurgaon Bangladesh</h3>
-<img  align="right" width="40" src="https://i.ibb.co/4Vx08CF/IMG-20230702-161750-removebg-preview-modified.png" alt="">
+<img  align="right" width="400" height="400" src="https://i.ibb.co/4Vx08CF/IMG-20230702-161750-removebg-preview-modified.png" alt="">
 
 
 - 🔭 I’m currently working on [Summer drawing school](https://summery-camp-drowing-school.web.app/)
 
-- 🌱 I’m currently learning **Next js,**
+- 🌱 I’m currently learning **Next js, nextjs, mongodb, **
 
 - 👨‍💻 All of my projects are available at [https://grand-starlight-c8411f.netlify.app/](https://grand-starlight-c8411f.netlify.app/)
 
