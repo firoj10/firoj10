@@ -12,7 +12,7 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 </p>
 
 <h2>Projects</h2>
-<img align="right" width="500" height="100%" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
+<img align="right" width="400"  src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
 <ul>
     <li>🔭 I’m currently working on <a href="#">Enterprise resource planning(ERP)</a></li>
     <li>🌱 I’m currently learning <strong>Next.js, MongoDB</strong></li>
