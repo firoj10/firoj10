@@ -22,13 +22,12 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 </ul>
 
 <h3>Connect with me:</h3>
-<img align="right" width="400" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
+<img align="right" width="800" height="100%" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
 <p>
     <a href="https://www.linkedin.com/in/mdfirojhasan/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
     <a href="https://github.com/mdfirojhasan" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="40"/></a>
-    <a href="mailto:mdfirojhasan.info@gmail.com" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/gmail.png" alt="Gmail" width="40"/></a>
+    <a href="mailto:mdfirojhasan.info@gmail.com" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/new-post.png" alt="Gmail" width="40"/></a>
     <a href="https://www.facebook.com/mdfirojhasan" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook" width="40"/></a>
-    <a href="https://wa.me/your-number" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/whatsapp.png" alt="WhatsApp" width="40"/></a>
 </p>
 
 <h3>Backend Languages & Tools:</h3>
@@ -52,16 +51,16 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 
 <h3>Additional Tools & Libraries:</h3>
 <p>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/></a>
-    <a href="https://sweetalert2.github.io/" target="_blank"><img src="https://sweetalert2.github.io/images/SweetAlert2.png" alt="SweetAlert" width="40"/></a>
-    <a href="https://react-query.tanstack.com/" target="_blank"><img src="https://react-query.tanstack.com/_next/static/images/emblem-light-7e0c3f59d7038c3d1d84764d6b5b69d9.svg" alt="React Query" width="40"/></a>
-    <a href="https://axios-http.com/" target="_blank"><img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="40"/></a>
-    <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40"/></a>
-    <a href="https://stripe.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stripe.svg" alt="Stripe" width="40"/></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
-    <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40"/></a>
-    <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40"/></a>
-    <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/></a>
-    <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" alt="Material-UI" width="40"/></a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20"/></a>
+    <a href="https://sweetalert2.github.io/" target="_blank"><img src="https://sweetalert2.github.io/images/SweetAlert2.png" alt="SweetAlert" width="20"/></a>
+    <a href="https://react-query.tanstack.com/" target="_blank"><img src="https://react-query.tanstack.com/_next/static/images/emblem-light-7e0c3f59d7038c3d1d84764d6b5b69d9.svg" alt="React Query" width="20"/></a>
+    <a href="https://axios-http.com/" target="_blank"><img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="20"/></a>
+    <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="20"/></a>
+    <a href="https://stripe.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stripe.svg" alt="Stripe" width="20"/></a>
+    <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="20"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="20"/></a>
+    <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="20"/></a>
+    <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"  width="20"/></a>
+    <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="20"/></a>
+    <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" alt="Material-UI" width="20"/></a>
 </p>
