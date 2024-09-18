@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
-<h3 align="center">I'm a MERN stack Developer and a post-graduate in Economics. Driven by modern technologies, I found my passion in web development.</h3>
 
 <img align="right" width="400" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?size=626&ext=jpg&uid=R105874481&ga=GA1.2.1306731744.1686152424&semt=ais" alt="coding">
-<img align="right" width="400" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
 
 <h2>Who I am</h2>
 <p>
@@ -33,6 +31,8 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 </p>
 
 <h3>Backend Languages & Tools:</h3>
+<img align="right" width="400" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
+
 <p>
     <a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40"/></a>
     <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></a>
