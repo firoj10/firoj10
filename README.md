@@ -30,7 +30,7 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 
 <h3>Backend Languages & Tools:</h3>
 <p>
-    <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40"/></a>
+    <a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40"/></a>
     <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
@@ -48,9 +48,9 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 <h3>Additional Tools & Libraries:</h3>
 <p>
     <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/></a>
-    <a href="https://sweetalert2.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sweetalert/sweetalert-original-wordmark.svg" alt="SweetAlert" width="40"/></a>
-    <a href="https://react-query.tanstack.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactquery/reactquery-icon.svg" alt="React Query" width="40"/></a>
-    <a href="https://axios-http.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/axios.svg" alt="Axios" width="40"/></a>
+    <a href="https://sweetalert2.github.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sweetalert2.svg" alt="SweetAlert" width="40"/></a>
+    <a href="https://react-query.tanstack.com/" target="_blank"><img src="https://react-query.tanstack.com/_next/static/images/emblem-light-7e0c3f59d7038c3d1d84764d6b5b69d9.svg" alt="React Query" width="40"/></a>
+    <a href="https://axios-http.com/" target="_blank"><img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="40"/></a>
     <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40"/></a>
     <a href="https://stripe.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stripe.svg" alt="Stripe" width="40"/></a>
     <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></a>
