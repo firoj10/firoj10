@@ -22,7 +22,7 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 </ul>
 
 <h3>Connect with me:</h3>
-<img align="right" width="800" height="100%" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
+<img align="right" width="600" height="100%" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
 <p>
     <a href="https://www.linkedin.com/in/mdfirojhasan/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
     <a href="https://github.com/mdfirojhasan" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="40"/></a>
