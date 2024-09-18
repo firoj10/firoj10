@@ -12,7 +12,6 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 </p>
 
 <h2>Projects</h2>
-<img align="right" width="400"  src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
 <ul>
     <li>🔭 I’m currently working on <a href="#">Enterprise resource planning(ERP)</a></li>
     <li>🌱 I’m currently learning <strong>Next.js, MongoDB</strong></li>
@@ -23,6 +22,7 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
 </ul>
 
 <h3>Connect with me:</h3>
+<img align="right" width="400"  src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
 
 <p>
     <a href="https://www.linkedin.com/in/mdfirojhasan/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/></a>
