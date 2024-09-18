@@ -17,7 +17,7 @@ I'm committed to delivering high-quality solutions and am eager to collaborate o
     <li>🌱 I’m currently learning <strong>Next.js, MongoDB</strong></li>
     <li>👨‍💻 Check out my portfolio: <a href="https://grand-starlight-c8411f.netlify.app/">My Projects</a></li>
     <li>📫 Reach me at: <strong>mdfirojhasan.info@gmail.com</strong></li>
-    <li>📄 Learn more about my experiences: <a href="https://drive.google.com/file/d/1WItcetVtWvReUwt0BKselhAZ3DpD5fl8/view">Resume</a></li>
+    <li>📄 Learn more about my experiences: <a href="https://drive.google.com/file/d/1mRYfiF0yMvXAfVz4Z-6_ordiASVzY_2u/view?usp=sharing">Resume</a></li>
     <li>⚡ Fun fact: <strong>I think I am funny</strong></li>
 </ul>
 
