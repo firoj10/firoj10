@@ -3,70 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Md Firoj Hasan - Web Developer</title>
-  <link rel="icon" href="https://img.icons8.com/ios-filled/50/000000/developer.png" />
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      line-height: 1.6;
-    }
 
-    img[align="right"] {
-      margin-left: 20px;
-    }
-
-    .icon-grid {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      max-width: 700px;
-      margin-bottom: 20px;
-    }
-
-    .icon-grid a {
-      flex: 1 0 45%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      padding: 5px;
-    }
-
-    h1, h2, h3, h4 {
-      margin-top: 30px;
-    }
-
-    @media (max-width: 500px) {
-      .icon-grid a {
-        flex: 1 0 100%;
-      }
-
-      img[align="right"] {
-        display: block;
-        float: none;
-        margin: 0 auto;
-        width: 100%;
-      }
-    }
-
-    section {
-      margin-bottom: 40px;
-    }
-
-    .icons {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
-
-    .icons a img {
-      transition: transform 0.2s ease;
-    }
-
-    .icons a:hover img {
-      transform: scale(1.1);
-    }
-  </style>
 </head>
 <body>
 
