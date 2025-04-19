@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Md Firoj Hasan - Portfolio</title>
 </head>
 <body>
 
@@ -31,7 +30,6 @@
   </ul>
 
   <h3>Connect with me:</h3>
-  <img align="right" width="400" src="https://i.ibb.co.com/9pgMt89/4620240228114724.webp" alt="coding">
 
   <p>
     <a href="https://www.linkedin.com/in/mdfirojhasan/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/></a>
