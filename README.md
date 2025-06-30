@@ -37,9 +37,9 @@
     <h3>Connect with me:</h3>
     <div class="icons">
       <a href="https://www.linkedin.com/in/mdfirojhasan/" target="_blank" aria-label="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/></a>
-      <a href="https://github.com/mdfirojhasan" target="_blank" aria-label="GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="30"/></a>
+      <a href="https://github.com/firoj10" target="_blank" aria-label="GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="30"/></a>
       <a href="mailto:mdfirojhasan.info@gmail.com" target="_blank" aria-label="Gmail"><img src="https://img.icons8.com/material-outlined/24/000000/new-post.png" alt="Gmail" width="30"/></a>
-      <a href="https://www.facebook.com/mdfirojhasan" target="_blank" aria-label="Facebook"><img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook" width="30"/></a>
+      <a href="https://www.facebook.com/mdfirojhasann" target="_blank" aria-label="Facebook"><img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook" width="30"/></a>
     </div>
   </section>
 
