@@ -27,10 +27,9 @@
   <li>🌱 I’m currently learning <strong>Python, Django</strong></li>
 <li>👨‍💻 Check out my portfolio: <a href="https://grand-starlight-c8411f.netlify.app/">My Projects</a></li>
 <li>📫 Reach me at: <strong>mdfirojhasan.info@gmail.com</strong></li>
-<li>📄 Learn more about my experiences: <a href="https://drive.google.com/file/d/1mRYfiF0yMvXAfVz4Z-6_ordiASVzY_2u/view?usp=sharing">Resume</a></li>
+<li>📄 Learn more about my experiences: <a href="https://drive.google.com/file/d/1-EjH4BZpbEYbi49DMe7vowt1wp5ctv9l/view?usp=sharing">Resume</a></li>
 <li>🔗 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/md-firoj-hasan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn Profile</a></li>
 <li>⚡ Fun fact: <strong>I think I am funny</strong></li>
-
     </ul>
   </section>
 
