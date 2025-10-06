@@ -7,7 +7,6 @@
 </head>
 <body>
 
-  <h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
 
   <img align="right" width="400" loading="lazy" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" alt="Developer working on code">
 
