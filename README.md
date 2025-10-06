@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Md Firoj Hasan - Full Stack Developer</title>
 </head>
 <body>
 
+  <h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
 
   <img align="right" width="400" loading="lazy" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" alt="Developer working on code">
 
