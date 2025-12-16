@@ -1,7 +1,3 @@
-git REDMI.MD
-
- prontend technology te : next.js logo add   
- about ta thik vabe like dao 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -63,6 +59,9 @@ git REDMI.MD
     <h4>Frontend Languages & Tools:</h4>
     <div class="icons">
       <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30"/></a>
+      <a href="https://nextjs.org/" target="_blank" title="Next.js">
+            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" alt="Next.js"/>
+          </a>
       <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="30"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/></a>
       <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30"/></a>
