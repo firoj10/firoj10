@@ -26,9 +26,16 @@
       margin: 30px 0;
       font-size: 2.8rem;
       text-shadow: 0 0 10px rgba(0, 217, 255, 0.3);
+      text-align: center;
     }
     
-    h2, h3, h4 {
+    h3 {
+      color: #4fc3f7;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    
+    h2, h4 {
       color: #4fc3f7;
       margin: 25px 0 15px 0;
       padding-bottom: 8px;
@@ -51,11 +58,21 @@
       box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
     }
     
-    img[align="right"] {
+    .profile-img {
+      float: right;
+      width: 400px;
       border-radius: 15px;
       border: 3px solid #00d9ff;
       box-shadow: 0 0 20px rgba(0, 217, 255, 0.4);
       margin: 20px;
+    }
+    
+    @media (max-width: 768px) {
+      .profile-img {
+        float: none;
+        width: 100%;
+        margin: 20px 0;
+      }
     }
     
     p {
@@ -160,12 +177,6 @@
         font-size: 2rem;
       }
       
-      img[align="right"] {
-        width: 100%;
-        margin: 20px 0;
-        float: none;
-      }
-      
       .icons {
         justify-content: center;
       }
@@ -174,10 +185,10 @@
 </head>
 <body>
 
-  <h1 align="center">👋 Hello, I'm Md Firoj Hasan</h1>
-  <h3 align="center">Full Stack Web Developer | MERN Stack & Laravel Expert</h3>
+  <h1>👋 Hello, I'm Md Firoj Hasan</h1>
+  <h3>Full Stack Web Developer | MERN Stack & Laravel Expert</h3>
 
-  <img align="right" width="400" loading="lazy" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" alt="Developer working on code">
+  <img class="profile-img" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" alt="Developer working on code">
 
   <section>
     <h2>✨ About Me</h2>
