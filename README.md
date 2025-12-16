@@ -15,7 +15,7 @@
     <h2>Who I am</h2>
     <p>
       My name is <strong>Md Firoj Hasan</strong>, and I'm a passionate <strong>Full Stack Web Developer</strong> based in Dhaka, Bangladesh.
-      I love creating modern, efficient, and scalable web applications using the <strong>MERN Stack</strong> (MongoDB, Express.js, React, Node.js) and <strong>PHP + Laravel</strong>.
+      I love creating modern, efficient, and scalable web applications using the <strong>MERN Stack</strong> (MongoDB, Express.js, React, Node.js) 
       I'm self-motivated, detail-oriented, and constantly learning new technologies to improve my craft.
       I enjoy solving real-world problems and building solutions that make a difference.
     </p>
