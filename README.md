@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
-<h3 align="center">Full Stack Software Engineer | MERN & Next.js Developer</h3>
+# Md Firoj Hasan
 
-<img align="right" width="380" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" alt="Developer working on code">
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Full Stack Developer** based in **Dhaka, Bangladesh** with 1+ years of professional experience building scalable and user-focused web applications.
-
-I specialize in building modern applications using:
-
-- ⚛️ React.js & Next.js
-- 🚀 Node.js & Express.js
-- 🗄 MongoDB & SQL Databases
-- 🔐 Authentication & Role-Based Access Control (RBAC)
-
-I enjoy writing clean, maintainable code and solving real-world problems through efficient software solutions.
+**Full Stack Software Engineer**  
+Dhaka, Bangladesh  
+📧 mdfirojhasan.info@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/md-firoj-hasan/)  
+💻 [GitHub](https://github.com/firoj10)  
+🌐 [Portfolio](https://grand-starlight-c8411f.netlify.app/)
 
 ---
 
-## 🚀 Technical Skills
+## 👋 About Me
 
-### 💻 Frontend
+Full Stack Software Engineer specializing in modern JavaScript ecosystems including React.js, Next.js, Node.js, and MongoDB.
+
+Strong expertise in REST API development, authentication systems, role-based access control (RBAC), and scalable backend architecture. Focused on writing clean, maintainable code and delivering high-performance, user-centered applications.
+
+---
+
+## 🛠 Technical Skills
+
+### Frontend
 - React.js
 - Next.js
 - TypeScript
@@ -30,9 +27,8 @@ I enjoy writing clean, maintainable code and solving real-world problems through
 - Tailwind CSS
 - Redux
 - Responsive UI Development
-- Figma (UI Implementation)
 
-### 🛠 Backend
+### Backend
 - Node.js
 - Express.js
 - MongoDB
@@ -42,80 +38,85 @@ I enjoy writing clean, maintainable code and solving real-world problems through
 - JWT Authentication
 - Role-Based Access Control (RBAC)
 - OAuth2
-- Payment Integration
 - Socket.io
+- Payment Integration
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 - Git & GitHub
 - Postman
 - Vercel
 - Netlify
 - VS Code
 - Docker (Basic)
-- DevTools
+- Chrome DevTools
+- Figma (UI Implementation)
 
 ---
 
 ## 💼 Professional Experience
 
-### Full Stack Developer | DevTechGuru | Dhaka, Bangladesh
+### Full Stack Developer  
+**DevTechGuru | Dhaka, Bangladesh**
 
-- Developed scalable full-stack applications with strong performance and security.
-- Built RESTful APIs using Node.js, Express, and MongoDB/MySQL.
-- Implemented authentication systems and secure access control.
-- Integrated payment tracking and reporting systems.
-- Collaborated with cross-functional teams to deliver projects on time.
-- Diagnosed and fixed technical issues ensuring smooth system performance.
+- Developed scalable full-stack applications with high performance and security.
+- Built RESTful APIs using Node.js, Express.js, and MongoDB/MySQL.
+- Implemented secure authentication and access control systems.
+- Integrated payment tracking and reporting modules.
+- Collaborated with cross-functional teams to improve delivery timelines.
+- Diagnosed and resolved system issues to ensure stable production performance.
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Selected Projects
 
-### 🎓 Full-Stack E-Learning Platform
-- Built using Next.js, TypeScript, MongoDB
-- Secure authentication & protected routes
-- Course, module, lesson & quiz management
-- Real-time progress tracking
-- Payment integration for paid courses
+### Full-Stack E-Learning Platform
+**Tech Stack:** Next.js, TypeScript, MongoDB  
+- Built scalable course architecture (course, module, lesson, quiz).
+- Implemented secure authentication and protected routes.
+- Developed real-time progress tracking system.
+- Integrated secure payment workflow.
 
-### 🔐 MERN Dynamic Role Permission (RBAC)
-- Dynamic role & permission system
-- Secure multi-role authentication
-- Scalable backend architecture
+### MERN Dynamic Role Permission (RBAC)
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+- Designed dynamic role and permission management system.
+- Implemented secure multi-role authentication.
+- Built scalable backend architecture.
 
-### 💬 Real-Time Chat Application
-- React + Node.js + Socket.io
-- Room-based messaging
-- Typing indicators
-- Messenger-style responsive UI
+### Real-Time Chat Application
+**Tech Stack:** React, Node.js, Socket.io  
+- Developed room-based real-time messaging.
+- Implemented typing indicators.
+- Built responsive messenger-style UI.
 
-### 🛒 Action Toys – E-commerce Platform
-- Product catalog & cart system
-- Order processing
-- Secure authentication
-- Fully responsive design
+### Action Toys – E-commerce Platform
+**Tech Stack:** MERN Stack  
+- Developed product catalog and order processing system.
+- Implemented secure authentication.
+- Built fully responsive UI.
 
 ---
 
 ## 🎓 Education
 
-- **BSc in Computer Science & Engineering (CSE)**  
-  Northern University Bangladesh
+**BSc in Computer Science & Engineering (CSE)**  
+Northern University Bangladesh  
 
-- **Thakurgaon Polytechnic Institute**  
-  CGPA: 3.76 / 4.00 (2018–2022)
-
----
-
-## 🌐 Connect With Me
-
-- 📧 Email: mdfirojhasan.info@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/md-firoj-hasan/
-- 💻 GitHub: https://github.com/firoj10
-- 🌍 Portfolio: https://grand-starlight-c8411f.netlify.app/
+**Thakurgaon Polytechnic Institute**  
+CGPA: 3.76 / 4.00 (2018 – 2022)
 
 ---
 
-## ⚡ Fun Fact
+## 🌍 Languages
 
-I believe coding should be clean, scalable, and a little fun 😄
+- Bangla (Native)
+- English (Comfortable)
+
+---
+
+## 🎯 Career Focus
+
+- Scalable Web Application Architecture
+- Secure Backend Development
+- Performance Optimization
+- Clean Code & Best Practices
+- Modern Full Stack Development
