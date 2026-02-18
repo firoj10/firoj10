@@ -1,92 +1,121 @@
+<h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
+<h3 align="center">Full Stack Software Engineer | MERN & Next.js Developer</h3>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-</head>
-<body>
+<img align="right" width="380" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" alt="Developer working on code">
 
-  <h1 align="center">Hi 👋, I'm Md Firoj Hasan</h1>
+---
 
-  <img align="right" width="400" loading="lazy" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" alt="Developer working on code">
+## 👨‍💻 About Me
 
-  <section>
-    <h2>Who I am</h2>
-    <p>
-      My name is <strong>Md Firoj Hasan</strong>, and I'm a passionate <strong>Full Stack Web Developer</strong> based in Dhaka, Bangladesh.
-      I love creating modern, efficient, and scalable web applications using the <strong>MERN Stack</strong> (MongoDB, Express.js, React, Node.js) 
-      I'm self-motivated, detail-oriented, and constantly learning new technologies to improve my craft.
-      I enjoy solving real-world problems and building solutions that make a difference.
-    </p>
-  </section>
+I'm a passionate **Full Stack Developer** based in **Dhaka, Bangladesh** with 1+ years of professional experience building scalable and user-focused web applications.
 
-  <section>
-    <h2>Projects</h2>
-    <ul>
-      <li>💻 Skilled in building <strong>MERN</strong> and <strong>Laravel</strong> based full-stack projects.</li>
-      <li>👨‍💻 Portfolio: <a href="https://grand-starlight-c8411f.netlify.app/">My Projects</a></li>
-      <li>📫 Email: <strong>mdfirojhasan.info@gmail.com</strong></li>
-      <li>📄 Resume: <a href="https://drive.google.com/file/d/1-EjH4BZpbEYbi49DMe7vowt1wp5ctv9l/view?usp=sharing">View Here</a></li>
-      <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/md-firoj-hasan/">LinkedIn Profile</a></li>
-      <li>⚡ Fun fact: <strong>I think I am funny 😄</strong></li>
-    </ul>
-  </section>
+I specialize in building modern applications using:
 
-  <section>
-    <h3>Connect with me:</h3>
-    <div class="icons">
-      <a href="https://www.linkedin.com/in/md-firoj-hasan/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/></a>
-      <a href="https://github.com/firoj10" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="30"/></a>
-      <a href="mailto:mdfirojhasan.info@gmail.com" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/new-post.png" width="30"/></a>
-      <a href="https://www.facebook.com/mdfirojhasann" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" width="30"/></a>
-    </div>
-  </section>
+- ⚛️ React.js & Next.js
+- 🚀 Node.js & Express.js
+- 🗄 MongoDB & SQL Databases
+- 🔐 Authentication & Role-Based Access Control (RBAC)
 
-  <section>
-    <h4>Backend Languages & Tools:</h4>
-    <div class="icons">
-      <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/></a>
-      <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40"/></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
-      <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="40"/></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
-          <a href="https://www.python.org/" target="_blank" title="Python">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30" alt="Django"/>
-    </a>
-    </div>
-  </section>
+I enjoy writing clean, maintainable code and solving real-world problems through efficient software solutions.
 
-  <section>
-    <h4>Frontend Languages & Tools:</h4>
-    <div class="icons">
-      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/></a>
-      <a href="https://nextjs.org/" target="_blank" title="Next.js">
-            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" alt="Next.js"/>
-          </a>
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
-      <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/></a>
-      <a href="https://html.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/></a>
-    </div>
-  </section>
+---
 
-  <section>
-    <h4>Additional Tools & Libraries:</h4>
-    <div class="icons">
-      <a href="https://axios-http.com/" target="_blank"><img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="40"/></a>
-      <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40"/></a>
-      <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></a>
-      <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
-      <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40"/></a>
-      <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/></a>
-      <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" alt="Material-UI" width="40"/></a>
-    </div>
-  </section>
+## 🚀 Technical Skills
 
-</body>
-</html>
+### 💻 Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS
+- Redux
+- Responsive UI Development
+- Figma (UI Implementation)
+
+### 🛠 Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- PostgreSQL
+- REST API Development
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- OAuth2
+- Payment Integration
+- Socket.io
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Postman
+- Vercel
+- Netlify
+- VS Code
+- Docker (Basic)
+- DevTools
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer | DevTechGuru | Dhaka, Bangladesh
+
+- Developed scalable full-stack applications with strong performance and security.
+- Built RESTful APIs using Node.js, Express, and MongoDB/MySQL.
+- Implemented authentication systems and secure access control.
+- Integrated payment tracking and reporting systems.
+- Collaborated with cross-functional teams to deliver projects on time.
+- Diagnosed and fixed technical issues ensuring smooth system performance.
+
+---
+
+## 🏆 Featured Projects
+
+### 🎓 Full-Stack E-Learning Platform
+- Built using Next.js, TypeScript, MongoDB
+- Secure authentication & protected routes
+- Course, module, lesson & quiz management
+- Real-time progress tracking
+- Payment integration for paid courses
+
+### 🔐 MERN Dynamic Role Permission (RBAC)
+- Dynamic role & permission system
+- Secure multi-role authentication
+- Scalable backend architecture
+
+### 💬 Real-Time Chat Application
+- React + Node.js + Socket.io
+- Room-based messaging
+- Typing indicators
+- Messenger-style responsive UI
+
+### 🛒 Action Toys – E-commerce Platform
+- Product catalog & cart system
+- Order processing
+- Secure authentication
+- Fully responsive design
+
+---
+
+## 🎓 Education
+
+- **BSc in Computer Science & Engineering (CSE)**  
+  Northern University Bangladesh
+
+- **Thakurgaon Polytechnic Institute**  
+  CGPA: 3.76 / 4.00 (2018–2022)
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: mdfirojhasan.info@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/md-firoj-hasan/
+- 💻 GitHub: https://github.com/firoj10
+- 🌍 Portfolio: https://grand-starlight-c8411f.netlify.app/
+
+---
+
+## ⚡ Fun Fact
+
+I believe coding should be clean, scalable, and a little fun 😄
