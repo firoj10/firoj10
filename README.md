@@ -10,8 +10,11 @@ Dhaka, Bangladesh
 ---
 
 ## 👋 About Me
+
 Full Stack Software Engineer specializing in modern JavaScript ecosystems including React.js, Next.js, Node.js, and MongoDB.
+
 Strong expertise in REST API development, authentication systems, role-based access control (RBAC), and scalable backend architecture. Focused on writing clean, maintainable code and delivering high-performance, user-centered applications.
+
 ---
 ## 🛠 Technical Skills
 
