@@ -88,12 +88,6 @@ Strong expertise in REST API development, authentication systems, role-based acc
 - Implemented typing indicators.
 - Built responsive messenger-style UI.
 
-### Action Toys – E-commerce Platform
-**Tech Stack:** MERN Stack  
-- Developed product catalog and order processing system.
-- Implemented secure authentication.
-- Built fully responsive UI.
-
 ---
 
 ## 🎓 Education
