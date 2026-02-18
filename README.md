@@ -1,13 +1,13 @@
 # Md Firoj Hasan
 
-**Full Stack Software Engineer**  
-Dhaka, Bangladesh  
-📧 mdfirojhasan.info@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/md-firoj-hasan/)  
-💻 [GitHub](https://github.com/firoj10)  
-🌐 [Portfolio](https://grand-starlight-c8411f.netlify.app/)
+Full Stack Software Engineer | Dhaka, Bangladesh | 
+[Email](mailto:mdfirojhasan.info@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/md-firoj-hasan/) | 
+[GitHub](https://github.com/firoj10) | 
+[Portfolio](https://grand-starlight-c8411f.netlify.app/)
 
 ---
+
 
 ## 👋 About Me
 
