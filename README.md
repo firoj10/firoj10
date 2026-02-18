@@ -1,13 +1,13 @@
 # Md Firoj Hasan
 
-Full Stack Software Engineer | Dhaka, Bangladesh | 
-[Email](mailto:mdfirojhasan.info@gmail.com) | 
-[LinkedIn](https://www.linkedin.com/in/md-firoj-hasan/) | 
-[GitHub](https://github.com/firoj10) | 
-[Portfolio](https://grand-starlight-c8411f.netlify.app/)
+Full Stack Software Engineer | Dhaka, Bangladesh  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdfirojhasan.info@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-firoj-hasan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/firoj10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://grand-starlight-c8411f.netlify.app/)
 
 ---
-
 
 ## 👋 About Me
 
@@ -17,7 +17,7 @@ Strong expertise in REST API development, authentication systems, role-based acc
 
 ---
 ## 🛠 Technical Skills
-## 🛠 Technical Skills
+
 
 ### Frontend
 <p align="left">
@@ -74,15 +74,14 @@ Strong expertise in REST API development, authentication systems, role-based acc
 - Collaborated with cross-functional teams to improve delivery timelines.
 - Diagnosed and resolved system issues to ensure stable production performance.
 
----
 ## 🎓 Education
 
 **BSc in Computer Science & Engineering (CSE)**  
-Northern University Bangladesh  
+🎓 Northern University Bangladesh  
 
-**Thakurgaon Polytechnic Institute**  
-CGPA: 3.76 / 4.00 (2018 – 2022)
----
+**Diploma in Computer Science & Engineering**  
+🏫 Thakurgaon Polytechnic Institute
+
 ## 🌍 Languages
 
 - Bangla (Native)
