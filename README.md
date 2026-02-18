@@ -17,38 +17,48 @@ Strong expertise in REST API development, authentication systems, role-based acc
 
 ---
 ## 🛠 Technical Skills
+## 🛠 Technical Skills
 
 ### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- Redux
-- Responsive UI Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" alt="React"/> React &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" alt="Next.js"/> Next.js &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/> TypeScript &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/> JavaScript &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="Tailwind CSS"/> Tailwind CSS &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30" alt="Redux"/> Redux
+</p>
+
+---
 
 ### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- PostgreSQL
-- REST API Development
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- OAuth2
-- Socket.io
-- Payment Integration
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/> Node.js &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" alt="Express.js"/> Express.js &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/> MongoDB &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/> PostgreSQL &nbsp;&nbsp;
+  <img src="https://jwt.io/img/pic_logo.svg" width="30" alt="JWT"/> JWT &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="30" alt="Socket.io"/> Socket.io
+</p>
+
+<p align="left">
+  🔐 RBAC &nbsp;&nbsp; 🔑 OAuth2 &nbsp;&nbsp; 💳 Payment Integration &nbsp;&nbsp; 🧩 Mongoose &nbsp;&nbsp; 🌐 REST APIs
+</p>
+
+---
 
 ### Tools & Platforms
-- Git & GitHub
-- Postman
-- Vercel
-- Netlify
-- VS Code
-- Docker (Basic)
-- Chrome DevTools
-- Figma (UI Implementation)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git"/> Git &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub"/> GitHub &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" alt="Postman"/> Postman &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="30" alt="Vercel"/> Vercel &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="30" alt="Netlify"/> Netlify &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" alt="Docker"/> Docker &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/> VS Code &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" alt="Figma"/> Figma
+</p>
+
 
 ---
 
