@@ -10,13 +10,9 @@ Dhaka, Bangladesh
 ---
 
 ## 👋 About Me
-
 Full Stack Software Engineer specializing in modern JavaScript ecosystems including React.js, Next.js, Node.js, and MongoDB.
-
 Strong expertise in REST API development, authentication systems, role-based access control (RBAC), and scalable backend architecture. Focused on writing clean, maintainable code and delivering high-performance, user-centered applications.
-
 ---
-
 ## 🛠 Technical Skills
 
 ### Frontend
@@ -66,30 +62,6 @@ Strong expertise in REST API development, authentication systems, role-based acc
 - Diagnosed and resolved system issues to ensure stable production performance.
 
 ---
-
-## 🚀 Selected Projects
-
-### Full-Stack E-Learning Platform
-**Tech Stack:** Next.js, TypeScript, MongoDB  
-- Built scalable course architecture (course, module, lesson, quiz).
-- Implemented secure authentication and protected routes.
-- Developed real-time progress tracking system.
-- Integrated secure payment workflow.
-
-### MERN Dynamic Role Permission (RBAC)
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
-- Designed dynamic role and permission management system.
-- Implemented secure multi-role authentication.
-- Built scalable backend architecture.
-
-### Real-Time Chat Application
-**Tech Stack:** React, Node.js, Socket.io  
-- Developed room-based real-time messaging.
-- Implemented typing indicators.
-- Built responsive messenger-style UI.
-
----
-
 ## 🎓 Education
 
 **BSc in Computer Science & Engineering (CSE)**  
@@ -97,20 +69,10 @@ Northern University Bangladesh
 
 **Thakurgaon Polytechnic Institute**  
 CGPA: 3.76 / 4.00 (2018 – 2022)
-
 ---
-
 ## 🌍 Languages
 
 - Bangla (Native)
 - English (Comfortable)
 
 ---
-
-## 🎯 Career Focus
-
-- Scalable Web Application Architecture
-- Secure Backend Development
-- Performance Optimization
-- Clean Code & Best Practices
-- Modern Full Stack Development
